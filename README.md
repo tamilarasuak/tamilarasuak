@@ -29,7 +29,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity)
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity">
-    <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="250">
+    <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="450">
   </a>
 </p>
 
@@ -38,7 +38,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tamilarasu_ak/)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tamilarasu_ak?theme=dark&font=Mulish&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/tamilarasu_ak?theme=dark&font=Mulish&ext=heatmap" alt="LeetCode Stats">
+</p>
 
 
 **Happy coding!**
