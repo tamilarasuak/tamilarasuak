@@ -28,7 +28,6 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity)
 
-[<img src="https://media.geeksforgeeks.org/auth/profile/tamilarasu_ak.png" width="120">](https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity)
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tamilarasu_ak/)
 
