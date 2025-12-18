@@ -27,9 +27,10 @@
 ### My Codingplatforms Profile:
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="550" />
+  <a href="https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity">
+    <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="250">
+  </a>
 </p>
 
 
