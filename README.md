@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tamilarasu
 
-**BE CSE Student**
+**BE CSE Student💻**
 
 - 🌱 I’m currently learning **Java, DSA, Frontend**
 - 🛠️ I’m working on **Webdevelopment** projects
