@@ -13,7 +13,9 @@
 
 ## 📫 How to Reach Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/tamilarasu-a-679644337/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30">](https://www.linkedin.com/in/tamilarasu-a-679644337/)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30">](https://www.instagram.com/tamil_.17_?igsh=MXJyN3F5bDVkbzAzeA==)
 
 
 
