@@ -29,7 +29,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity)
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/tamilarasu_ak?tab=activity">
-    <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="450">
+    <img src="https://raw.githubusercontent.com/tamilarasuak/tamilarasuak/main/TamilGFG.png" width="500">
   </a>
 </p>
 
